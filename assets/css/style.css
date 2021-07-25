@@ -1,0 +1,41 @@
+header {
+    background: #084d6e;
+    padding: 20px 0;
+}
+
+.menusup {
+    position: relative;
+    width: 95vw;
+    margin: 0 auto;
+    /* border: solid black; */
+}
+
+h1 {
+    font-size: 35px;
+    color: white;
+}
+
+nav {
+    position: absolute;
+    top: 8px;
+    right: 0;
+}
+
+nav li  {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+footer {
+    text-align: center;
+    background: gray;
+    padding: 10px 0;
+}
